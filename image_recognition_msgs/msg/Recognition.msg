@@ -1,0 +1,2 @@
+CategoricalDistribution categorical_distribution
+sensor_msgs/RegionOfInterest roi
